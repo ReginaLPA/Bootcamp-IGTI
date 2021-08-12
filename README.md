@@ -1,7 +1,7 @@
 # Bootcamp IGTI
 Bootcamp Cientista de Dados
 
-O Bootcamp Online – IGTI é um programa educacional prático e intensivo,
+O Bootcamp Online – [IGTI](https://www.igti.com.br/) é um programa educacional prático e intensivo,
 ministrado à distância, que tem por objetivo o desenvolvimento de habilidades que
 permitam ao(à) aluno(a) desempenhar atividade profissional na área.
 
